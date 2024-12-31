@@ -1,0 +1,15 @@
+-- Question 1 : Calculate Total Loan Amount by Purpose
+-- Question 2: Find the Average Interest Rate by Grade
+-- Question 3: Identify the Top 5 States with the Highest Loan Amounts
+-- Question 4: Calculate the Default Rate by Grade
+-- Question 5: Find Borrowers with More than 10 Open Accounts
+-- Question 6: Calculate Total Payments and Recoveries
+-- Question 7: Calculate Debt-to-Income Ratio (DTI) by State
+-- Question 8: List Borrowers with the Highest Installment Amounts
+-- Question 9: Join Tables to Find Total Payments by Loan Purpose
+-- Question 10: Find Total Recoveries by Loan Grade
+-- Question 11 : Grade -Subcategory wise revolution balance
+-- Question 12 total paymnet for verified status Vs Non verified status
+
+
+
